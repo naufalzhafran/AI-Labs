@@ -1,0 +1,239 @@
+Train                        
+Predict                      
+10386 0.05396222479469481
+Train                        
+Predict                      
+92162 0.05258055307755971
+Train                        
+Predict                      
+16282 0.05516005852674122
+Train                        
+Predict                      
+20583 0.05345908114392639
+Train                        
+Predict                      
+58040 0.05673417386245838
+Train                        
+Predict                      
+92585 0.053266696745918884
+Train                        
+Predict                      
+87642 0.05471378857945819
+Train                        
+Predict                      
+9222 0.05422606596553814
+Train                        
+Predict                      
+65673 0.0551638625291907
+Train                        
+Predict                      
+23144 0.05430073563101523
+Train                        
+Predict                      
+89113 0.05418886667312128
+Train                        
+Predict                      
+99932 0.053103379178193855
+Train                        
+Predict                      
+65240 0.05410279727386469
+Train                        
+Predict                      
+6152 0.05377647698933585
+Train                        
+Predict                      
+79582 0.056829138215386044
+Train                        
+Predict                      
+74526 0.05265272804700327
+Train                        
+Predict                      
+19410 0.05360931448123718
+Train                        
+Predict                      
+8941 0.05263198204349495
+Train                        
+Predict                      
+94194 0.0546125062892181
+Train                        
+Predict                      
+53316 0.05257039816459774
+Train                        
+Predict                      
+27827 0.0538082217581074
+Train                        
+Predict                      
+75612 0.052900233374567396
+Train                        
+Predict                      
+2667 0.0532912352601671
+Train                        
+Predict                      
+5738 0.05466445333694381
+Train                        
+Predict                      
+55158 0.05342384463597394
+Train                        
+Predict                      
+26507 0.05493324448415671
+Train                        
+Predict                      
+40784 0.05596679163426488
+Train                        
+Predict                      
+84063 0.05545454644204151
+Train                        
+Predict                      
+22382 0.051244857995572435
+Train                        
+Predict                      
+9586 0.05479490178773527
+Train                        
+Predict                      
+67080 0.05518167895718429
+Train                        
+Predict                      
+89743 0.052527641992271445
+Train                        
+Predict                      
+38514 0.0547884154874827
+Train                        
+Predict                      
+16898 0.05433688655381497
+Train                        
+Predict                      
+97506 0.053955456220540654
+Train                        
+Predict                      
+12156 0.0529246761940837
+Train                        
+Predict                      
+17107 0.05509295081750709
+Train                        
+Predict                      
+6430 0.05285743830602729
+Train                        
+Predict                      
+98727 0.05316178031078256
+Train                        
+Predict                      
+40133 0.0554237402410811
+Train                        
+Predict                      
+29959 0.052689242370590916
+Train                        
+Predict                      
+47539 0.05283694819835716
+Train                        
+Predict                      
+44284 0.05413675668696327
+Train                        
+Predict                      
+42458 0.05308280915947872
+Train                        
+Predict                      
+51328 0.05463216961903028
+Train                        
+Predict                      
+32609 0.0528266038091022
+Train                        
+Predict                      
+22051 0.053817939469997245
+Train                        
+Predict                      
+16022 0.05372309448068435
+Train                        
+Predict                      
+40072 0.05376824705737471
+Train                        
+Predict                      
+21200 0.05373323337715319
+Train                        
+Predict                      
+64822 0.05467109232689071
+Train                        
+Predict                      
+19100 0.0542678518818378
+Train                        
+Predict                      
+70105 0.05339233146761169
+Train                        
+Predict                      
+5237 0.05349396602623435
+Train                        
+Predict                      
+42919 0.05280931613999751
+Train                        
+Predict                      
+75521 0.05350291415246655
+Train                        
+Predict                      
+98618 0.054133618646027615
+Train                        
+Predict                      
+26297 0.052043720694964324
+Train                        
+Predict                      
+97555 0.055191634492554376
+Train                        
+Predict                      
+22382 0.051244857995572435
+Train                        
+Predict                      
+5820 0.05518982820207263
+Train                        
+Predict                      
+54718 0.05415702199241346
+Train                        
+Predict                      
+30346 0.05481100570401276
+Train                        
+Predict                      
+83283 0.05377000578285496
+Train                        
+Predict                      
+99269 0.05398600503631379
+Train                        
+Predict                      
+47454 0.054253379206892216
+Train                        
+Predict                      
+68214 0.054039250124256144
+Train                        
+Predict                      
+99228 0.05498955612809242
+Train                        
+Predict                      
+54729 0.05463539410350893
+Train                        
+Predict                      
+73318 0.05233215324339813
+Train                        
+Predict                      
+97679 0.0541345540580207
+Train                        
+Predict                      
+62163 0.05317073607270295
+Train                        
+Predict                      
+23113 0.05438202422369198
+Train                        
+Predict                      
+34093 0.05337060111205194
+Train                        
+Predict                      
+30710 0.05384469419586768
+Train                        
+Predict                      
+50694 0.053649147398790564
+Train                        
+Predict                      
+67101 0.05465817096004777
+Train                        
+Predict                      
+80841 0.05424782550561158
+Train                        
+Predict                      
+32594 0.05280589230941357
+Train                        
+Predict                      
